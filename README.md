@@ -1,3 +1,3 @@
 # Todo
 
-A Simple Todo applicaton with Text to speech feature
+Todo applicaton with Text to speech feature on android.
